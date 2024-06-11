@@ -1,5 +1,5 @@
 [
-{
+    {
         "domain": "chatgpt.com",
         "hostOnly": true,
         "httpOnly": false,
