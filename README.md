@@ -45,4 +45,4 @@ ChatGPT Cookie 管理器是一个专为 Chrome 浏览器设计的扩展程序，
 
 ## 赞赏
 
-稍后添加
+![微信赞赏码](https://violet17.oss-cn-beijing.aliyuncs.com/config/wx_reward.png)
